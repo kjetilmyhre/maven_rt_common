@@ -12,8 +12,10 @@
         <url>http://www.gjensidige.no</url>
 
         <scm>
-            <connection>scm:svn:http://mstsolutv19:8081/Subversion/gpsrepo/GPS_Parent/tags/gps-parent/gps-parent-1.20</connection>
-            <developerConnection>scm:svn:http://mstsolutv19:8081/Subversion/gpsrepo/GPS_Parent/tags/gps-parent/gps-parent-1.20</developerConnection>
+            <connection>scm:git:https://github.com/kmyhreims/maven_rt_common.git/parent</connection>
+            <developerConnection>scm:git:https://github.com/kmyhreims/maven_rt_common.git/parent</developerConnection>
+            <url>scm:git:https://github.com/kmyhreims/maven_rt_common.git/parent</url>
+
         </scm>
 
         <build>
@@ -30,9 +32,7 @@
 
                 <plugin>
                     <artifactId>maven-release-plugin</artifactId>
-                    <configuration>
-                        <tagBase>http://mstsolutv19:8081/Subversion/gpsrepo/${project.artifactId}/tags/</tagBase>
-                    </configuration>
+                    <version>2.1</version>
                 </plugin>
             </plugins>
         </build>
