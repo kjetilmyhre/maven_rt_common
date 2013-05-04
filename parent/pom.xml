@@ -10,9 +10,9 @@
         <url>http://www.gjensidige.no</url>
 
         <scm>
-            <connection>scm:git:https://github.com/kmyhreims/maven_rt_common.git/parent</connection>
-            <developerConnection>scm:git:https://github.com/kmyhreims/maven_rt_common.git/parent</developerConnection>
-            <url>scm:git:https://github.com/kmyhreims/maven_rt_common.git/parent</url>
+            <connection>scm:git:https://github.com/kmyhreims/maven_rt_common.git</connection>
+            <developerConnection>scm:git:https://github.com/kmyhreims/maven_rt_common.git</developerConnection>
+            <url>scm:git:https://github.com/kmyhreims/maven_rt_common</url>
 
         </scm>
 
