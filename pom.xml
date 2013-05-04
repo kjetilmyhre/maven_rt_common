@@ -14,7 +14,8 @@
             <developerConnection>scm:git:https://github.com/kmyhreims/maven_rt_common.git</developerConnection>
             <url>scm:git:https://github.com/kmyhreims/maven_rt_common</url>
 
-        </scm>
+
+</scm>
 
         <build>
             <plugins>
