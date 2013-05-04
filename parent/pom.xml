@@ -4,7 +4,7 @@
 
     <groupId>no.myhre-ims.mvntest</groupId>
     <artifactId>parent</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
         <name>Maventest parent pom</name>
         <url>http://www.gjensidige.no</url>
